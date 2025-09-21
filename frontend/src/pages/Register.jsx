@@ -41,7 +41,7 @@ function Register() {
     formData.append("photo", photo);
     try {
       const { data } = await axios.post(
-        "http://localhost:4001/api/users/register",
+        `${process.env.REACT_APP_API_URL}/api/users/register`,
         formData,
         {
           withCredentials: true,
