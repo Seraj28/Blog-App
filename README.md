@@ -40,7 +40,6 @@ It supports **admin and user roles**, multi-page navigation, and full CRUD funct
 ## About the Author / Note
 
 Hi! I'm **Md Seraj**, a final-year student and **MERN Stack Developer**.  
-This is my **final-year project**, and I am actively seeking **job opportunities in web development / full-stack development**.
 
 I built this project to demonstrate:
 
@@ -49,10 +48,12 @@ I built this project to demonstrate:
 - **Multi-page responsive UI design**
 - **CRUD operations and project structuring**
 
-You can reach out to me via:
+## 📬 Connect with me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-s-14aa3127a/)  
+- 📧 Gmail: **mdseraj628@gmail.com**  
 
-- **LinkedIn**: [https://www.linkedin.com/in/md-seraj](https://www.linkedin.com/in/md-seraj)  
-- **Email**: seraj232855@gmail.com  
+---
 
-I’m open to **feedback, collaborations, and internship/full-time opportunities**.
+✨ Made with ❤️ by **Md Seraj** 
+
 
