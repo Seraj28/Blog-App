@@ -37,8 +37,22 @@ It supports **admin and user roles**, multi-page navigation, and full CRUD funct
 
 ---
 
-## Installation & Setup
+## About the Author / Note
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/Seraj28/Blog-App.git
+Hi! I'm **Md Seraj**, a final-year student and **MERN Stack Developer**.  
+This is my **final-year project**, and I am actively seeking **job opportunities in web development / full-stack development**.
+
+I built this project to demonstrate:
+
+- **Full-stack development skills (MERN)**
+- **Authentication & role-based access control**
+- **Multi-page responsive UI design**
+- **CRUD operations and project structuring**
+
+You can reach out to me via:
+
+- **LinkedIn**: [https://www.linkedin.com/in/md-seraj](https://www.linkedin.com/in/md-seraj)  
+- **Email**: seraj232855@gmail.com  
+
+I’m open to **feedback, collaborations, and internship/full-time opportunities**.
+
