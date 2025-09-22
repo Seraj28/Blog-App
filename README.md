@@ -50,7 +50,7 @@ I built this project to demonstrate:
 
 ## 📬 Connect with me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-s-14aa3127a/)  
-- 📧 Gmail: **mdseraj628@gmail.com**  
+- 📧 Gmail: **seraj232855@gmail.com**  
 
 ---
 
