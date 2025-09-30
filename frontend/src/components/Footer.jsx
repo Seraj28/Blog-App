@@ -205,13 +205,13 @@ const Footer = () => {
           <p>&copy; 2025 CilliBlog. All rights reserved.</p>
         </div>
         <div className="mt-4 md:mt-0 flex space-x-4">
-          <a href="https://github.com" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Seraj28" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
             <FaGithub className="h-6 hover:text-blue-500 transition" />
           </a>
           <a href="https://youtube.com" aria-label="YouTube" target="_blank" rel="noopener noreferrer">
             <BsYoutube className="h-6 hover:text-red-500 transition" />
           </a>
-          <a href="www.linkedin.com/in/md-s-14aa3127a" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/md-s-14aa3127a/" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="h-6 hover:text-blue-600 transition" />
           </a>
         </div>
